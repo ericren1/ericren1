@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**ericren1/ericren1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Eric 👋
 
-Here are some ideas to get you started:
+Computer Engineering @ Toronto Metropolitan University  
+Software Engineering Intern @ TD Securities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building software that solves real problems, with interests in backend systems, full-stack development, and AI/ML.
+
+### Featured Projects
+
+- **URL Shortener & Analytics API** — Java, Spring Boot, PostgreSQL, Redis
+- **AI Personal Scheduler** — Python, React, PostgreSQL *(In Development)*
+- **AI Exercise Form Corrector** — Python, OpenCV, PyTorch *(In Development)*
+
+### Tech Stack
+
+**Languages:** Java, Python, C++, JavaScript, SQL  
+**Tools:** Spring Boot, React, PostgreSQL, Docker, Kafka, Redis
+
+### Connect
+
+[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL)
